@@ -1,0 +1,165 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 1
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34mRoundrobin placement triggered
+	threadid 139974504834944 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974496438272 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974488041600 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974479644928 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974471248256 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974125021696 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974116625024 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974108228352 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974099831680 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974091435008 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974083038336 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139974074641664 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973588151680 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973579755008 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973571358336 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973562961664 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973554564992 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973546168320 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973537771648 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973051281664 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973042884992 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973034488320 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973026091648 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973017694976 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973009298304 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139973000901632 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972514411648 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972506014976 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972497618304 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972489221632 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972480824960 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972472428288 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139972464027520 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971977537536 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971969136768 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971960736000 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971952335232 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971943934464 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971935533696 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971927132928 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971440667520 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971432266752 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971423865984 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971415465216 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971407064448 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971398663680 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139971390262912 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970903797504 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970895396736 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970886995968 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970878595200 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970870194432 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970861793664 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970853392896 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970366927488 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970358526720 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970350125952 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970341725184 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970333324416 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970324923648 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139970316522880 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969830057472 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969821656704 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969813255936 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969804851072 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969796446208 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969788041344 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969779636480 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969293183360 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969284778496 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969276373632 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969267968768 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969259563904 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969251159040 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139969242754176 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139968756313344 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139968747908480 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139968739503616 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 139968731098752 -> core 1 - OK[0m[1;34m
+[0m[
+    {
+        "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/Boeing/pwtk/pwtk.mtx",
+        "problem": {
+            "id": 369,
+            "group": "Boeing",
+            "name": "pwtk",
+            "rows": 217918,
+            "cols": 217918,
+            "nonzeros": 11524432,
+            "real": true,
+            "binary": false,
+            "2d3d": true,
+            "posdef": true,
+            "psym": 1,
+            "nsym": 1,
+            "kind": "structural problem",
+            "row_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            },
+            "col_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            }
+        },
+        "spmv": {
+            "csr": {
+                "storage": 139164860,
+                "max_relative_norm2": 0.0,
+                "time": 0.1262299302,
+                "completed": true
+            },
+            "coo": {
+                "storage": 184390912,
+                "max_relative_norm2": 0.0,
+                "time": 1.1864857817999999,
+                "completed": true
+            },
+            "ell": {
+                "storage": 470702880,
+                "max_relative_norm2": 0.0,
+                "time": 1.073106353,
+                "completed": true
+            },
+            "hybrid": {
+                "storage": 141991328,
+                "max_relative_norm2": 0.0,
+                "time": 0.3539340195,
+                "completed": true
+            },
+            "sellp": {
+                "storage": 142681304,
+                "max_relative_norm2": 0.0,
+                "time": 0.15811376170000003,
+                "completed": true
+            }
+        },
+        "optimal": {
+            "spmv": "csr"
+        }
+    }
+]
