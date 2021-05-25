@@ -1,0 +1,104 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->0  [0m[1;34m10->1  [0m[1;34m11->2  [0m[1;34m12->3  [0m[1;34m13->4  [0m[1;34m14->5  [0m[1;34m15->6  [0m[1;34m16->7  [0m[1;34m17->8  [0m[1;34m18->9  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140157593909120 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140157585512448 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140157577115776 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140157568719104 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140157560322432 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140157551925760 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140157543529088 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140157063785216 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140157055388544 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140157046991872 -> core 0 - OK[0m[1;34m
+[0m[1;34m	threadid 140157038595200 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140157030198528 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140157021801856 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140157013405184 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140156526915200 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140156518518528 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140156510121856 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140156501725184 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140156493328512 -> core 9 - OK[0m[1;34m
+[0m[
+    {
+        "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/Boeing/pwtk/pwtk.mtx",
+        "problem": {
+            "id": 369,
+            "group": "Boeing",
+            "name": "pwtk",
+            "rows": 217918,
+            "cols": 217918,
+            "nonzeros": 11524432,
+            "real": true,
+            "binary": false,
+            "2d3d": true,
+            "posdef": true,
+            "psym": 1,
+            "nsym": 1,
+            "kind": "structural problem",
+            "row_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            },
+            "col_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            }
+        },
+        "spmv": {
+            "csr": {
+                "storage": 139164860,
+                "max_relative_norm2": 0.0,
+                "time": 0.0097447214,
+                "completed": true
+            },
+            "coo": {
+                "storage": 184390912,
+                "max_relative_norm2": 0.0,
+                "time": 0.0938314155,
+                "completed": true
+            },
+            "ell": {
+                "storage": 470702880,
+                "max_relative_norm2": 0.0,
+                "time": 0.09832040759999999,
+                "completed": true
+            },
+            "hybrid": {
+                "storage": 141991328,
+                "max_relative_norm2": 0.0,
+                "time": 0.029980208600000004,
+                "completed": true
+            },
+            "sellp": {
+                "storage": 142681304,
+                "max_relative_norm2": 0.0,
+                "time": 0.013155350299999999,
+                "completed": true
+            }
+        },
+        "optimal": {
+            "spmv": "csr"
+        }
+    }
+]

@@ -1,0 +1,164 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m19->20  [0m[1;34m20->21  [0m[1;34m21->22  [0m[1;34m22->23  [0m[1;34m23->24  [0m[1;34m24->25  [0m[1;34m25->26  [0m[1;34m26->27  [0m[1;34m27->28  [0m[1;34m28->29  [0m[1;34m29->30  [0m[1;34m30->31  [0m[1;34m31->32  [0m[1;34m32->33  [0m[1;34m33->34  [0m[1;34m34->35  [0m[1;34m35->36  [0m[1;34m36->37  [0m[1;34m37->38  [0m[1;34m38->39  [0m[1;34m39->40  [0m[1;34m40->41  [0m[1;34m41->42  [0m[1;34m42->43  [0m[1;34m43->44  [0m[1;34m44->45  [0m[1;34m45->46  [0m[1;34m46->47  [0m[1;34m47->48  [0m[1;34m48->49  [0m[1;34m49->50  [0m[1;34m50->51  [0m[1;34m51->52  [0m[1;34m52->53  [0m[1;34m53->54  [0m[1;34m54->55  [0m[1;34m55->56  [0m[1;34m56->57  [0m[1;34m57->58  [0m[1;34m58->59  [0m[1;34m59->60  [0m[1;34m60->61  [0m[1;34m61->62  [0m[1;34m62->63  [0m[1;34m63->64  [0m[1;34m64->65  [0m[1;34m65->66  [0m[1;34m66->67  [0m[1;34m67->68  [0m[1;34m68->69  [0m[1;34m69->70  [0m[1;34m70->71  [0m[1;34m71->72  [0m[1;34m72->73  [0m[1;34m73->74  [0m[1;34m74->75  [0m[1;34m75->76  [0m[1;34m76->77  [0m[1;34m77->78  [0m[1;34m78->79  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 22921216792448 -> hwthread 1 - OK[0m[1;34m
+[0m[1;34m	threadid 22921212590080 -> hwthread 2 - OK[0m[1;34m
+[0m[1;34m	threadid 22921208387712 -> hwthread 3 - OK[0m[1;34m
+[0m[1;34m	threadid 22921204185344 -> hwthread 4 - OK[0m[1;34m
+[0m[1;34m	threadid 22921199982976 -> hwthread 5 - OK[0m[1;34m
+[0m[1;34m	threadid 22921195780608 -> hwthread 6 - OK[0m[1;34m
+[0m[1;34m	threadid 22921191578240 -> hwthread 7 - OK[0m[1;34m
+[0m[1;34m	threadid 22921187375872 -> hwthread 8 - OK[0m[1;34m
+[0m[1;34m	threadid 22921183173504 -> hwthread 9 - OK[0m[1;34m
+[0m[1;34m	threadid 22921178971136 -> hwthread 10 - OK[0m[1;34m
+[0m[1;34m	threadid 22921174768768 -> hwthread 11 - OK[0m[1;34m
+[0m[1;34m	threadid 22920428514560 -> hwthread 12 - OK[0m[1;34m
+[0m[1;34m	threadid 22920424312192 -> hwthread 13 - OK[0m[1;34m
+[0m[1;34m	threadid 22920420109824 -> hwthread 14 - OK[0m[1;34m
+[0m[1;34m	threadid 22920415907456 -> hwthread 15 - OK[0m[1;34m
+[0m[1;34m	threadid 22920411705088 -> hwthread 16 - OK[0m[1;34m
+[0m[1;34m	threadid 22920407502720 -> hwthread 17 - OK[0m[1;34m
+[0m[1;34m	threadid 22920403300352 -> hwthread 18 - OK[0m[1;34m
+[0m[1;34m	threadid 22920399097984 -> hwthread 19 - OK[0m[1;34m
+[0m[1;34m	threadid 22920394895616 -> hwthread 20 - OK[0m[1;34m
+[0m[1;34m	threadid 22920390693248 -> hwthread 21 - OK[0m[1;34m
+[0m[1;34m	threadid 22920386490880 -> hwthread 22 - OK[0m[1;34m
+[0m[1;34m	threadid 22920382288512 -> hwthread 23 - OK[0m[1;34m
+[0m[1;34m	threadid 22920378086144 -> hwthread 24 - OK[0m[1;34m
+[0m[1;34m	threadid 22920373883776 -> hwthread 25 - OK[0m[1;34m
+[0m[1;34m	threadid 22920369681408 -> hwthread 26 - OK[0m[1;34m
+[0m[1;34m	threadid 22919354774656 -> hwthread 27 - OK[0m[1;34m
+[0m[1;34m	threadid 22919350572288 -> hwthread 28 - OK[0m[1;34m
+[0m[1;34m	threadid 22919346369920 -> hwthread 29 - OK[0m[1;34m
+[0m[1;34m	threadid 22919342167552 -> hwthread 30 - OK[0m[1;34m
+[0m[1;34m	threadid 22919337965184 -> hwthread 31 - OK[0m[1;34m
+[0m[1;34m	threadid 22919333762816 -> hwthread 32 - OK[0m[1;34m
+[0m[1;34m	threadid 22919329556352 -> hwthread 33 - OK[0m[1;34m
+[0m[1;34m	threadid 22919325349888 -> hwthread 34 - OK[0m[1;34m
+[0m[1;34m	threadid 22919321143424 -> hwthread 35 - OK[0m[1;34m
+[0m[1;34m	threadid 22919316936960 -> hwthread 36 - OK[0m[1;34m
+[0m[1;34m	threadid 22919312730496 -> hwthread 37 - OK[0m[1;34m
+[0m[1;34m	threadid 22919308524032 -> hwthread 38 - OK[0m[1;34m
+[0m[1;34m	threadid 22919304317568 -> hwthread 39 - OK[0m[1;34m
+[0m[1;34m	threadid 22919300111104 -> hwthread 40 - OK[0m[1;34m
+[0m[1;34m	threadid 22919295904640 -> hwthread 41 - OK[0m[1;34m
+[0m[1;34m	threadid 22918281030656 -> hwthread 42 - OK[0m[1;34m
+[0m[1;34m	threadid 22918276824192 -> hwthread 43 - OK[0m[1;34m
+[0m[1;34m	threadid 22918272617728 -> hwthread 44 - OK[0m[1;34m
+[0m[1;34m	threadid 22918268411264 -> hwthread 45 - OK[0m[1;34m
+[0m[1;34m	threadid 22918264204800 -> hwthread 46 - OK[0m[1;34m
+[0m[1;34m	threadid 22918259998336 -> hwthread 47 - OK[0m[1;34m
+[0m[1;34m	threadid 22918255791872 -> hwthread 48 - OK[0m[1;34m
+[0m[1;34m	threadid 22918251585408 -> hwthread 49 - OK[0m[1;34m
+[0m[1;34m	threadid 22918247378944 -> hwthread 50 - OK[0m[1;34m
+[0m[1;34m	threadid 22918243172480 -> hwthread 51 - OK[0m[1;34m
+[0m[1;34m	threadid 22918238966016 -> hwthread 52 - OK[0m[1;34m
+[0m[1;34m	threadid 22918234759552 -> hwthread 53 - OK[0m[1;34m
+[0m[1;34m	threadid 22918230553088 -> hwthread 54 - OK[0m[1;34m
+[0m[1;34m	threadid 22918226346624 -> hwthread 55 - OK[0m[1;34m
+[0m[1;34m	threadid 22918222140160 -> hwthread 56 - OK[0m[1;34m
+[0m[1;34m	threadid 22917207290752 -> hwthread 57 - OK[0m[1;34m
+[0m[1;34m	threadid 22917203084288 -> hwthread 58 - OK[0m[1;34m
+[0m[1;34m	threadid 22917198877824 -> hwthread 59 - OK[0m[1;34m
+[0m[1;34m	threadid 22917194671360 -> hwthread 60 - OK[0m[1;34m
+[0m[1;34m	threadid 22917190464896 -> hwthread 61 - OK[0m[1;34m
+[0m[1;34m	threadid 22917186258432 -> hwthread 62 - OK[0m[1;34m
+[0m[1;34m	threadid 22917182051968 -> hwthread 63 - OK[0m[1;34m
+[0m[1;34m	threadid 22917177845504 -> hwthread 64 - OK[0m[1;34m
+[0m[1;34m	threadid 22917173634944 -> hwthread 65 - OK[0m[1;34m
+[0m[1;34m	threadid 22917169424384 -> hwthread 66 - OK[0m[1;34m
+[0m[1;34m	threadid 22917165213824 -> hwthread 67 - OK[0m[1;34m
+[0m[1;34m	threadid 22917161003264 -> hwthread 68 - OK[0m[1;34m
+[0m[1;34m	threadid 22917156792704 -> hwthread 69 - OK[0m[1;34m
+[0m[1;34m	threadid 22917152582144 -> hwthread 70 - OK[0m[1;34m
+[0m[1;34m	threadid 22917148371584 -> hwthread 71 - OK[0m[1;34m
+[0m[1;34m	threadid 22916133546752 -> hwthread 72 - OK[0m[1;34m
+[0m[1;34m	threadid 22916129336192 -> hwthread 73 - OK[0m[1;34m
+[0m[1;34m	threadid 22916125125632 -> hwthread 74 - OK[0m[1;34m
+[0m[1;34m	threadid 22916120915072 -> hwthread 75 - OK[0m[1;34m
+[0m[1;34m	threadid 22916116704512 -> hwthread 76 - OK[0m[1;34m
+[0m[1;34m	threadid 22916112493952 -> hwthread 77 - OK[0m[1;34m
+[0m[1;34m	threadid 22916108283392 -> hwthread 78 - OK[0m[1;34m
+[0m[1;34m	threadid 22916104072832 -> hwthread 79 - OK[0m[1;34m
+[0m[
+    {
+        "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/GHS_psdef/ldoor/ldoor.mtx",
+        "problem": {
+            "id": 1268,
+            "group": "GHS_psdef",
+            "name": "ldoor",
+            "rows": 952203,
+            "cols": 952203,
+            "nonzeros": 42493817,
+            "real": true,
+            "binary": false,
+            "2d3d": true,
+            "posdef": true,
+            "psym": 1,
+            "nsym": 1,
+            "kind": "structural problem",
+            "row_distribution": {
+                "min": 28,
+                "q1": 35.0,
+                "median": 49.0,
+                "q3": 63.0,
+                "max": 77,
+                "mean": 48.85772781644251,
+                "variance": 142.7205712469094,
+                "skewness": 0.0202693752198294,
+                "kurtosis": 1.3325473537964293,
+                "hyperskewness": 0.07123713577643955,
+                "hyperflatness": 1.8905504618712988
+            },
+            "col_distribution": {
+                "min": 28,
+                "q1": 35.0,
+                "median": 49.0,
+                "q3": 63.0,
+                "max": 77,
+                "mean": 48.85772781644251,
+                "variance": 142.7205712469094,
+                "skewness": 0.0202693752198294,
+                "kurtosis": 1.3325473537964293,
+                "hyperskewness": 0.07123713577643955,
+                "hyperflatness": 1.8905504618712988
+            }
+        },
+        "spmv": {
+            "csr": {
+                "storage": 513734620,
+                "max_relative_norm2": 0.0,
+                "time": 0.0110077999,
+                "completed": true
+            },
+            "coo": {
+                "storage": 679901072,
+                "max_relative_norm2": 0.0,
+                "time": 0.19453649870000004,
+                "completed": true
+            },
+            "ell": {
+                "storage": 879835572,
+                "max_relative_norm2": 0.0,
+                "time": 0.0397045154,
+                "completed": true
+            },
+            "hybrid": {
+                "storage": 578379916,
+                "max_relative_norm2": 0.0,
+                "time": 0.06984719360000001,
+                "completed": true
+            },
+            "sellp": {
+                "storage": 682165240,
+                "max_relative_norm2": 0.0,
+                "time": 0.0137136149,
+                "completed": true
+            }
+        },
+        "optimal": {
+            "spmv": "csr"
+        }
+    }
+]

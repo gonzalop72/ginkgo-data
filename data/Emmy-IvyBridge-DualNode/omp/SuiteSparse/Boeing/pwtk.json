@@ -1,0 +1,124 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m19->20  [0m[1;34m20->21  [0m[1;34m21->22  [0m[1;34m22->23  [0m[1;34m23->24  [0m[1;34m24->25  [0m[1;34m25->26  [0m[1;34m26->27  [0m[1;34m27->28  [0m[1;34m28->29  [0m[1;34m29->30  [0m[1;34m30->31  [0m[1;34m31->32  [0m[1;34m32->33  [0m[1;34m33->34  [0m[1;34m34->35  [0m[1;34m35->36  [0m[1;34m36->37  [0m[1;34m37->38  [0m[1;34m38->39  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140247465621376 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140247457224704 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140247448828032 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140247440431360 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140247432034688 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140247423638016 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140247415241344 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140247406844672 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140246922554240 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140246914157568 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140246905760896 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140246897364224 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140246888967552 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140246880570880 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140246872174208 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140246318575360 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140246310178688 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140246301782016 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140246293385344 -> core 19 - OK[0m[1;34m
+[0m[1;34m	threadid 140246284988672 -> core 20 - OK[0m[1;34m
+[0m[1;34m	threadid 140246276592000 -> core 21 - OK[0m[1;34m
+[0m[1;34m	threadid 140246268195328 -> core 22 - OK[0m[1;34m
+[0m[1;34m	threadid 140245781705344 -> core 23 - OK[0m[1;34m
+[0m[1;34m	threadid 140245773308672 -> core 24 - OK[0m[1;34m
+[0m[1;34m	threadid 140245764912000 -> core 25 - OK[0m[1;34m
+[0m[1;34m	threadid 140245756515328 -> core 26 - OK[0m[1;34m
+[0m[1;34m	threadid 140245748118656 -> core 27 - OK[0m[1;34m
+[0m[1;34m	threadid 140245739721984 -> core 28 - OK[0m[1;34m
+[0m[1;34m	threadid 140245731325312 -> core 29 - OK[0m[1;34m
+[0m[1;34m	threadid 140245244835328 -> core 30 - OK[0m[1;34m
+[0m[1;34m	threadid 140245236438656 -> core 31 - OK[0m[1;34m
+[0m[1;34m	threadid 140245228041984 -> core 32 - OK[0m[1;34m
+[0m[1;34m	threadid 140245219641216 -> core 33 - OK[0m[1;34m
+[0m[1;34m	threadid 140245211240448 -> core 34 - OK[0m[1;34m
+[0m[1;34m	threadid 140245202839680 -> core 35 - OK[0m[1;34m
+[0m[1;34m	threadid 140245194438912 -> core 36 - OK[0m[1;34m
+[0m[1;34m	threadid 140244707961216 -> core 37 - OK[0m[1;34m
+[0m[1;34m	threadid 140244699560448 -> core 38 - OK[0m[1;34m
+[0m[1;34m	threadid 140244691159680 -> core 39 - OK[0m[1;34m
+[0m[
+    {
+        "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/Boeing/pwtk/pwtk.mtx",
+        "problem": {
+            "id": 369,
+            "group": "Boeing",
+            "name": "pwtk",
+            "rows": 217918,
+            "cols": 217918,
+            "nonzeros": 11524432,
+            "real": true,
+            "binary": false,
+            "2d3d": true,
+            "posdef": true,
+            "psym": 1,
+            "nsym": 1,
+            "kind": "structural problem",
+            "row_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            },
+            "col_distribution": {
+                "min": 2,
+                "q1": 54.0,
+                "median": 54.0,
+                "q3": 54.0,
+                "max": 180,
+                "mean": 53.38899953193403,
+                "variance": 22.50454074330221,
+                "skewness": -1.7244743301114805,
+                "kurtosis": 46.848153329494177,
+                "hyperskewness": 241.04243324030089,
+                "hyperflatness": 11843.386212277584
+            }
+        },
+        "spmv": {
+            "csr": {
+                "storage": 139164860,
+                "max_relative_norm2": 0.0,
+                "time": 0.0049429498999999988,
+                "completed": true
+            },
+            "coo": {
+                "storage": 184390912,
+                "max_relative_norm2": 0.0,
+                "time": 0.07294534209999999,
+                "completed": true
+            },
+            "ell": {
+                "storage": 470702880,
+                "max_relative_norm2": 0.0,
+                "time": 0.0451402982,
+                "completed": true
+            },
+            "hybrid": {
+                "storage": 141991328,
+                "max_relative_norm2": 0.0,
+                "time": 0.013693453599999999,
+                "completed": true
+            },
+            "sellp": {
+                "storage": 142681304,
+                "max_relative_norm2": 0.0,
+                "time": 0.006732548,
+                "completed": true
+            }
+        },
+        "optimal": {
+            "spmv": "csr"
+        }
+    }
+]

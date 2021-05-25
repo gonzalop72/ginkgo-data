@@ -1,0 +1,124 @@
+[1;34m[pthread wrapper] 
+[0m[1;34m[pthread wrapper] MAIN -> 0
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->10  [0m[1;34m10->11  [0m[1;34m11->12  [0m[1;34m12->13  [0m[1;34m13->14  [0m[1;34m14->15  [0m[1;34m15->16  [0m[1;34m16->17  [0m[1;34m17->18  [0m[1;34m18->19  [0m[1;34m19->20  [0m[1;34m20->21  [0m[1;34m21->22  [0m[1;34m22->23  [0m[1;34m23->24  [0m[1;34m24->25  [0m[1;34m25->26  [0m[1;34m26->27  [0m[1;34m27->28  [0m[1;34m28->29  [0m[1;34m29->30  [0m[1;34m30->31  [0m[1;34m31->32  [0m[1;34m32->33  [0m[1;34m33->34  [0m[1;34m34->35  [0m[1;34m35->36  [0m[1;34m36->37  [0m[1;34m37->38  [0m[1;34m38->39  [0m[1;34m
+[pthread wrapper] SKIP MASK: 0x0
+[0m[1;34m	threadid 140289174738816 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140289166342144 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140289157945472 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140289149548800 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140288932702592 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140288924305920 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140288915909248 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140288907512576 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140288899115904 -> core 9 - OK[0m[1;34m
+[0m[1;34m	threadid 140288890719232 -> core 10 - OK[0m[1;34m
+[0m[1;34m	threadid 140288882322560 -> core 11 - OK[0m[1;34m
+[0m[1;34m	threadid 140288328723712 -> core 12 - OK[0m[1;34m
+[0m[1;34m	threadid 140288320327040 -> core 13 - OK[0m[1;34m
+[0m[1;34m	threadid 140288311930368 -> core 14 - OK[0m[1;34m
+[0m[1;34m	threadid 140288303533696 -> core 15 - OK[0m[1;34m
+[0m[1;34m	threadid 140288295137024 -> core 16 - OK[0m[1;34m
+[0m[1;34m	threadid 140288286740352 -> core 17 - OK[0m[1;34m
+[0m[1;34m	threadid 140288278343680 -> core 18 - OK[0m[1;34m
+[0m[1;34m	threadid 140287791853696 -> core 19 - OK[0m[1;34m
+[0m[1;34m	threadid 140287783457024 -> core 20 - OK[0m[1;34m
+[0m[1;34m	threadid 140287775060352 -> core 21 - OK[0m[1;34m
+[0m[1;34m	threadid 140287766663680 -> core 22 - OK[0m[1;34m
+[0m[1;34m	threadid 140287758267008 -> core 23 - OK[0m[1;34m
+[0m[1;34m	threadid 140287749870336 -> core 24 - OK[0m[1;34m
+[0m[1;34m	threadid 140287741473664 -> core 25 - OK[0m[1;34m
+[0m[1;34m	threadid 140287254983680 -> core 26 - OK[0m[1;34m
+[0m[1;34m	threadid 140287246587008 -> core 27 - OK[0m[1;34m
+[0m[1;34m	threadid 140287238190336 -> core 28 - OK[0m[1;34m
+[0m[1;34m	threadid 140287229793664 -> core 29 - OK[0m[1;34m
+[0m[1;34m	threadid 140287221396992 -> core 30 - OK[0m[1;34m
+[0m[1;34m	threadid 140287213000320 -> core 31 - OK[0m[1;34m
+[0m[1;34m	threadid 140287204603648 -> core 32 - OK[0m[1;34m
+[0m[1;34m	threadid 140286718109568 -> core 33 - OK[0m[1;34m
+[0m[1;34m	threadid 140286709708800 -> core 34 - OK[0m[1;34m
+[0m[1;34m	threadid 140286701308032 -> core 35 - OK[0m[1;34m
+[0m[1;34m	threadid 140286692907264 -> core 36 - OK[0m[1;34m
+[0m[1;34m	threadid 140286684506496 -> core 37 - OK[0m[1;34m
+[0m[1;34m	threadid 140286676105728 -> core 38 - OK[0m[1;34m
+[0m[1;34m	threadid 140286667704960 -> core 39 - OK[0m[1;34m
+[0m[
+    {
+        "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/GHS_psdef/ldoor/ldoor.mtx",
+        "problem": {
+            "id": 1268,
+            "group": "GHS_psdef",
+            "name": "ldoor",
+            "rows": 952203,
+            "cols": 952203,
+            "nonzeros": 42493817,
+            "real": true,
+            "binary": false,
+            "2d3d": true,
+            "posdef": true,
+            "psym": 1,
+            "nsym": 1,
+            "kind": "structural problem",
+            "row_distribution": {
+                "min": 28,
+                "q1": 35.0,
+                "median": 49.0,
+                "q3": 63.0,
+                "max": 77,
+                "mean": 48.85772781644251,
+                "variance": 142.7205712469094,
+                "skewness": 0.0202693752198294,
+                "kurtosis": 1.3325473537964293,
+                "hyperskewness": 0.07123713577643955,
+                "hyperflatness": 1.8905504618712988
+            },
+            "col_distribution": {
+                "min": 28,
+                "q1": 35.0,
+                "median": 49.0,
+                "q3": 63.0,
+                "max": 77,
+                "mean": 48.85772781644251,
+                "variance": 142.7205712469094,
+                "skewness": 0.0202693752198294,
+                "kurtosis": 1.3325473537964293,
+                "hyperskewness": 0.07123713577643955,
+                "hyperflatness": 1.8905504618712988
+            }
+        },
+        "spmv": {
+            "csr": {
+                "storage": 513734620,
+                "max_relative_norm2": 0.0,
+                "time": 0.0222918518,
+                "completed": true
+            },
+            "coo": {
+                "storage": 679901072,
+                "max_relative_norm2": 0.0,
+                "time": 0.2442208056,
+                "completed": true
+            },
+            "ell": {
+                "storage": 879835572,
+                "max_relative_norm2": 0.0,
+                "time": 0.10698957260000001,
+                "completed": true
+            },
+            "hybrid": {
+                "storage": 578379916,
+                "max_relative_norm2": 0.0,
+                "time": 0.12349546860000002,
+                "completed": true
+            },
+            "sellp": {
+                "storage": 682165240,
+                "max_relative_norm2": 0.0,
+                "time": 0.0327868231,
+                "completed": true
+            }
+        },
+        "optimal": {
+            "spmv": "csr"
+        }
+    }
+]
