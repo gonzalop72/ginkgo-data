@@ -1,87 +1,27 @@
 [1;34m[pthread wrapper] 
 [0m[1;34m[pthread wrapper] MAIN -> 0
-[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m9->20  [0m[1;34m10->21  [0m[1;34m11->22  [0m[1;34m12->23  [0m[1;34m13->24  [0m[1;34m14->25  [0m[1;34m15->26  [0m[1;34m16->27  [0m[1;34m17->28  [0m[1;34m18->29  [0m[1;34m
+[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m
 [pthread wrapper] SKIP MASK: 0x0
-[0m[1;34m	threadid 140138707527552 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140138699130880 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140138690734208 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140138474629376 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140138466232704 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140138457836032 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140138449439360 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140138441042688 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140138432646016 -> core 9 - OK[0m[1;34m
-[0m[1;34m	threadid 140138424249344 -> core 20 - OK[0m[1;34m
-[0m[1;34m	threadid 140137937759360 -> core 21 - OK[0m[1;34m
-[0m[1;34m	threadid 140137929362688 -> core 22 - OK[0m[1;34m
-[0m[1;34m	threadid 140137920966016 -> core 23 - OK[0m[1;34m
-[0m[1;34m	threadid 140137912569344 -> core 24 - OK[0m[1;34m
-[0m[1;34m	threadid 140137904172672 -> core 25 - OK[0m[1;34m
-[0m[1;34m	threadid 140137895776000 -> core 26 - OK[0m[1;34m
-[0m[1;34m	threadid 140137887379328 -> core 27 - OK[0m[1;34m
-[0m[1;34m	threadid 140137400889344 -> core 28 - OK[0m[1;34m
-[0m[1;34m	threadid 140137392492672 -> core 29 - OK[0m[1;34m
+[0m[1;34m	threadid 140138502387584 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140138493990912 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140138485594240 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140138273302784 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140138264906112 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140138256509440 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140138248112768 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140138239716096 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140138231319424 -> core 9 - OK[0m[1;34m
 [0m[1;34mRoundrobin placement triggered
-	threadid 140137384096000 -> core 0 - OK[0m[1;34m
-[0m[1;34m	threadid 140137375699328 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140137367302656 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140137358905984 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140137350509312 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140136864019328 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140136855622656 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140136847225984 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140136838829312 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140136830432640 -> core 9 - OK[0m[1;34m
-[0m[1;34m	threadid 140136822035968 -> core 20 - OK[0m[1;34m
-[0m[1;34m	threadid 140136813639296 -> core 21 - OK[0m[1;34m
-[0m[1;34m	threadid 140136327149312 -> core 22 - OK[0m[1;34m
-[0m[1;34m	threadid 140136318748544 -> core 23 - OK[0m[1;34m
-[0m[1;34m	threadid 140136310347776 -> core 24 - OK[0m[1;34m
-[0m[1;34m	threadid 140136301947008 -> core 25 - OK[0m[1;34m
-[0m[1;34m	threadid 140136293546240 -> core 26 - OK[0m[1;34m
-[0m[1;34m	threadid 140136285145472 -> core 27 - OK[0m[1;34m
-[0m[1;34m	threadid 140136276744704 -> core 28 - OK[0m[1;34m
-[0m[1;34m	threadid 140135790275200 -> core 29 - OK[0m[1;34m
-[0m[1;34m	threadid 140135781874432 -> core 0 - OK[0m[1;34m
-[0m[1;34m	threadid 140135773473664 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140135765072896 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140135756672128 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140135748271360 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140135739870592 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140135253405184 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140135245004416 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140135236603648 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140135228202880 -> core 9 - OK[0m[1;34m
-[0m[1;34m	threadid 140135219802112 -> core 20 - OK[0m[1;34m
-[0m[1;34m	threadid 140135211401344 -> core 21 - OK[0m[1;34m
-[0m[1;34m	threadid 140135203000576 -> core 22 - OK[0m[1;34m
-[0m[1;34m	threadid 140134716535168 -> core 23 - OK[0m[1;34m
-[0m[1;34m	threadid 140134708134400 -> core 24 - OK[0m[1;34m
-[0m[1;34m	threadid 140134699733632 -> core 25 - OK[0m[1;34m
-[0m[1;34m	threadid 140134691332864 -> core 26 - OK[0m[1;34m
-[0m[1;34m	threadid 140134682932096 -> core 27 - OK[0m[1;34m
-[0m[1;34m	threadid 140134674531328 -> core 28 - OK[0m[1;34m
-[0m[1;34m	threadid 140134666130560 -> core 29 - OK[0m[1;34m
-[0m[1;34m	threadid 140134179665152 -> core 0 - OK[0m[1;34m
-[0m[1;34m	threadid 140134171264384 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140134162863616 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140134154462848 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140134146062080 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140134137657216 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140134129252352 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140133642791040 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140133634386176 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140133625981312 -> core 9 - OK[0m[1;34m
-[0m[1;34m	threadid 140133617576448 -> core 20 - OK[0m[1;34m
-[0m[1;34m	threadid 140133609171584 -> core 21 - OK[0m[1;34m
-[0m[1;34m	threadid 140133600766720 -> core 22 - OK[0m[1;34m
-[0m[1;34m	threadid 140133592361856 -> core 23 - OK[0m[1;34m
-[0m[1;34m	threadid 140133105921024 -> core 24 - OK[0m[1;34m
-[0m[1;34m	threadid 140133097516160 -> core 25 - OK[0m[1;34m
-[0m[1;34m	threadid 140133089111296 -> core 26 - OK[0m[1;34m
-[0m[1;34m	threadid 140133080706432 -> core 27 - OK[0m[1;34m
-[0m[1;34m	threadid 140133072301568 -> core 28 - OK[0m[1;34m
-[0m[1;34m	threadid 140133063896704 -> core 29 - OK[0m[1;34m
+	threadid 140138222922752 -> core 0 - OK[0m[1;34m
+[0m[1;34m	threadid 140137736432768 -> core 1 - OK[0m[1;34m
+[0m[1;34m	threadid 140137728036096 -> core 2 - OK[0m[1;34m
+[0m[1;34m	threadid 140137719639424 -> core 3 - OK[0m[1;34m
+[0m[1;34m	threadid 140137711242752 -> core 4 - OK[0m[1;34m
+[0m[1;34m	threadid 140137702846080 -> core 5 - OK[0m[1;34m
+[0m[1;34m	threadid 140137694449408 -> core 6 - OK[0m[1;34m
+[0m[1;34m	threadid 140137686052736 -> core 7 - OK[0m[1;34m
+[0m[1;34m	threadid 140137199562752 -> core 8 - OK[0m[1;34m
+[0m[1;34m	threadid 140137191166080 -> core 9 - OK[0m[1;34m
 [0m[
     {
         "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/Janna/ML_Geer/ML_Geer.mtx",
@@ -130,31 +70,31 @@
             "csr": {
                 "storage": 1334256136,
                 "max_relative_norm2": 0.0,
-                "time": 0.0960735966,
+                "time": 0.0894269921,
                 "completed": true
             },
             "coo": {
                 "storage": 1770986832,
                 "max_relative_norm2": 0.0,
-                "time": 0.6641994873000001,
+                "time": 0.5594846672999999,
                 "completed": true
             },
             "ell": {
                 "storage": 1335553776,
                 "max_relative_norm2": 0.0,
-                "time": 0.2689510689,
+                "time": 0.3204991312,
                 "completed": true
             },
             "hybrid": {
                 "storage": 1335553776,
                 "max_relative_norm2": 0.0,
-                "time": 0.2772050072,
+                "time": 0.3202698851,
                 "completed": true
             },
             "sellp": {
                 "storage": 1335391192,
                 "max_relative_norm2": 0.0,
-                "time": 0.12230393479999999,
+                "time": 0.11723112309999999,
                 "completed": true
             }
         },
