@@ -1,28 +1,4 @@
-[1;34m[pthread wrapper] 
-[0m[1;34m[pthread wrapper] MAIN -> 0
-[0m[1;34m[pthread wrapper] PIN_MASK: [0m[1;34m0->1  [0m[1;34m1->2  [0m[1;34m2->3  [0m[1;34m3->4  [0m[1;34m4->5  [0m[1;34m5->6  [0m[1;34m6->7  [0m[1;34m7->8  [0m[1;34m8->9  [0m[1;34m
-[pthread wrapper] SKIP MASK: 0x0
-[0m[1;34m	threadid 140545391179648 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140545382782976 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140545374386304 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140545365989632 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140545154345344 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140545145948672 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140545137552000 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140545129155328 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140545120758656 -> core 9 - OK[0m[1;34m
-[0m[1;34mRoundrobin placement triggered
-	threadid 140545112361984 -> core 0 - OK[0m[1;34m
-[0m[1;34m	threadid 140545103965312 -> core 1 - OK[0m[1;34m
-[0m[1;34m	threadid 140544550366464 -> core 2 - OK[0m[1;34m
-[0m[1;34m	threadid 140544541969792 -> core 3 - OK[0m[1;34m
-[0m[1;34m	threadid 140544533573120 -> core 4 - OK[0m[1;34m
-[0m[1;34m	threadid 140544525176448 -> core 5 - OK[0m[1;34m
-[0m[1;34m	threadid 140544516779776 -> core 6 - OK[0m[1;34m
-[0m[1;34m	threadid 140544508383104 -> core 7 - OK[0m[1;34m
-[0m[1;34m	threadid 140544499986432 -> core 8 - OK[0m[1;34m
-[0m[1;34m	threadid 140544013496448 -> core 9 - OK[0m[1;34m
-[0m[
+passing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing throughpassing through[
     {
         "filename": "/home/hpc/rzku/ptfs335h/.config/ssget/MM/Boeing/pwtk/pwtk.mtx",
         "problem": {
@@ -47,10 +23,10 @@
                 "max": 180,
                 "mean": 53.38899953193403,
                 "variance": 22.50454074330221,
-                "skewness": -1.7244743301114805,
-                "kurtosis": 46.848153329494177,
-                "hyperskewness": 241.04243324030089,
-                "hyperflatness": 11843.386212277584
+                "skewness": -1.724474330081008,
+                "kurtosis": 46.84815332949395,
+                "hyperskewness": 241.04243324098804,
+                "hyperflatness": 11843.38621227768
             },
             "col_distribution": {
                 "min": 2,
@@ -60,41 +36,201 @@
                 "max": 180,
                 "mean": 53.38899953193403,
                 "variance": 22.50454074330221,
-                "skewness": -1.7244743301114805,
-                "kurtosis": 46.848153329494177,
-                "hyperskewness": 241.04243324030089,
-                "hyperflatness": 11843.386212277584
+                "skewness": -1.724474330081008,
+                "kurtosis": 46.84815332949395,
+                "hyperskewness": 241.04243324098804,
+                "hyperflatness": 11843.38621227768
             }
         },
         "spmv": {
             "csr": {
                 "storage": 139164860,
                 "max_relative_norm2": 0.0,
-                "time": 0.009740261200000001,
+                "tuning": {
+                    "time": [
+                        0.005743306000000001,
+                        0.0058179412,
+                        0.0063570931999999999,
+                        0.0056514066000000009,
+                        0.005619614300000001,
+                        0.00582038,
+                        0.006307312099999999,
+                        0.0056091545000000009,
+                        0.0055032544,
+                        0.005693153000000001,
+                        0.006215253299999999,
+                        0.005683208999999999,
+                        0.006084977399999999
+                    ],
+                    "values": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64,
+                        128,
+                        256,
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ]
+                },
+                "time": 0.006124239300000001,
                 "completed": true
             },
             "coo": {
                 "storage": 184390912,
                 "max_relative_norm2": 0.0,
-                "time": 0.0936306848,
+                "tuning": {
+                    "time": [
+                        0.043560668000000007,
+                        0.0452935698,
+                        0.04181287660000001,
+                        0.0443216964,
+                        0.0428368135,
+                        0.041748667899999997,
+                        0.0416767143,
+                        0.045619251799999999,
+                        0.0416401124,
+                        0.0418907159,
+                        0.044951085099999999,
+                        0.0417251785,
+                        0.0418227057
+                    ],
+                    "values": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64,
+                        128,
+                        256,
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ]
+                },
+                "time": 0.0418272936,
                 "completed": true
             },
             "ell": {
                 "storage": 470702880,
                 "max_relative_norm2": 0.0,
-                "time": 0.09915207940000001,
+                "tuning": {
+                    "time": [
+                        0.0710167925,
+                        0.0707964186,
+                        0.0696890034,
+                        0.0702898778,
+                        0.07026130010000001,
+                        0.0702499598,
+                        0.0704963494,
+                        0.0695150763,
+                        0.0703860253,
+                        0.07063991260000001,
+                        0.0694984026,
+                        0.069873606,
+                        0.06928399560000001
+                    ],
+                    "values": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64,
+                        128,
+                        256,
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ]
+                },
+                "time": 0.07009571969999999,
                 "completed": true
             },
             "hybrid": {
                 "storage": 141991328,
                 "max_relative_norm2": 0.0,
-                "time": 0.0327347463,
+                "tuning": {
+                    "time": [
+                        0.0225490027,
+                        0.0232487747,
+                        0.0228859373,
+                        0.0228417065,
+                        0.0225188714,
+                        0.0230117554,
+                        0.022593796099999998,
+                        0.0230718625,
+                        0.0229405541,
+                        0.0225057153,
+                        0.022743771200000007,
+                        0.0225822055,
+                        0.022581770699999998
+                    ],
+                    "values": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64,
+                        128,
+                        256,
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ]
+                },
+                "time": 0.022780718499999999,
                 "completed": true
             },
             "sellp": {
                 "storage": 142681304,
                 "max_relative_norm2": 0.0,
-                "time": 0.013100247300000002,
+                "tuning": {
+                    "time": [
+                        0.0087299669,
+                        0.008772181899999999,
+                        0.0083768953,
+                        0.0087617055,
+                        0.0083506315,
+                        0.0081832364,
+                        0.00890952,
+                        0.008344035400000002,
+                        0.0082378307,
+                        0.0084687702,
+                        0.0081536953,
+                        0.008345640599999999,
+                        0.0081704301
+                    ],
+                    "values": [
+                        1,
+                        2,
+                        4,
+                        8,
+                        16,
+                        32,
+                        64,
+                        128,
+                        256,
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ]
+                },
+                "time": 0.008188560499999999,
                 "completed": true
             }
         },
